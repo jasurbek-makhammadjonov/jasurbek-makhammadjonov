@@ -30,10 +30,8 @@ Mathematical Analysis, Automatic Control, Signal Analysis and Processing
 - English: Intermediate and Upper-Intermediate certificates, IELTS preparation (IELTS mock: 6.0)
 
 ## 📂 Featured Projects
-- 🗄️ [Project 1 name] — short one-line description
-- 📊 [Project 2 name] — short one-line description
-- 🤖 [Project 3 name] — short one-line description
-- 🦾 [Project 4 name] — short one-line description
+- 🗄️ [**CBU Exchange Rate ETL Pipeline**](https://github.com/jasurbek-makhammadjonov/cbu-exchange-rate-etl) — Python and SQL pipeline that downloads official daily exchange rates from the Central Bank of Uzbekistan, cleans them with pandas, stores them in SQLite and analyses trends with window functions.
+- 🦾 [**Otto Dancing Robot**](https://github.com/jasurbek-makhammadjonov/otto-dancing-robot) — Bipedal Arduino robot programmed in C++ with servo control sequences to perform a dance routine.
 
 ## 📫 Contact
 LinkedIn: [link] · Email: [email]
