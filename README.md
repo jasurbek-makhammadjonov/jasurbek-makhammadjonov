@@ -31,7 +31,6 @@ Mathematical Analysis, Automatic Control, Signal Analysis and Processing
 
 ## 📂 Featured Projects
 - 🗄️ [**CBU Exchange Rate ETL Pipeline**](https://github.com/jasurbek-makhammadjonov/cbu-exchange-rate-etl) — Python and SQL pipeline that downloads official daily exchange rates from the Central Bank of Uzbekistan, cleans them with pandas, stores them in SQLite and analyses trends with window functions.
-- 🦾 [**Otto Dancing Robot**](https://github.com/jasurbek-makhammadjonov/otto-dancing-robot) — Bipedal Arduino robot programmed in C++ with servo control sequences to perform a dance routine.
-
+- 🦾 [**Otto Dancing Robot**](https://github.com/jasurbek-makhammadjonov/otto-dancing-robot) — Bipedal Arduino robot programmed in the Arduino language with servo control sequences to perform a dance routine.
 ## 📫 Contact
-LinkedIn: [link] · Email: [email]
+LinkedIn: https://www.linkedin.com/in/jasurbek-maxammadjonov-38b10338a/ · Email: jasurmaxammadjonov156@gmail.com
